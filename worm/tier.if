@@ -1,0 +1,54 @@
+E2
+0
+N/A:0
+10-C | Below Average Human:1
+10-B | Human:2
+10-A | Athlete:3
+9-C | Street:4
+9-B | Wall:5
+9-A | Small Building:6
+8-C | Building:7
+High 8-C | Large Building:8
+8-B | City Block:9
+8-A | Multi-City Block:10
+Low 7-C | Small Town:11
+7-C | Town:12
+High 7-C | Large Town:13
+Low 7-B | Small City:14
+7-B | City:15
+7-A | Mountain:16
+High 7-A | Large Mountain:17
+6-C | Island:18
+High 6-C | Large Island:19
+Low 6-B | Small Country:20
+6-B | Country:21
+High 6-B | Large Country:22
+6-A | Continent:23
+High 6-A | Multi-Continent:24
+5-C | Moon:25
+Low 5-B | Small Planet:26
+5-B | Planet:27
+5-A | Large Planet:28
+High 5-A | Dwarf Star:29
+Low 4-C | Small Star:30
+4-C | Star:31
+High 4-C | Large Star:32
+4-B | Solar System:33
+4-A | Multi-Solar System:34
+3-C | Galaxy:35
+3-B | Multi-Galaxy:36
+3-A | Universe:37
+High 3-A | High Universe:38
+Low 2-C | Universe+:39
+2-C | Low Multiverse:40
+2-B | Multiverse:41
+2-A | Multiverse+:42
+Low 1-C | Low Complex Multiverse:43
+1-C | Complex Multiverse:44
+High 1-C | High Complex Multiverse:45
+1-B | Hyperverse:46
+High 1-B | High Hyperverse:47
+Low 1-A | Low Outerverse:48
+1-A | Outerverse:49
+High 1-A | High Outerverse:50
+0 | Boundless:51
