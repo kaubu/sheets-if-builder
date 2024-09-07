@@ -1,8 +1,8 @@
 H2
 "N/A"
 AND(H2>=0, H2 < 1.43 * 10^-8, ISNUMBER(H2)):"10-C - Below Average Human"
-AND(H2 >= 6*10^1, H2 < 1.06 * 10^2, ISNUMBER(H2)):"10-B - Human"
-AND(H2 >= 1.06 * 10^2, H2 < 7.17e-8, ISNUMBER(H2)):"10-A - Athlete"
+AND(H2 >= 1.43e-8, H2 < 2.53e-8, ISNUMBER(H2)):"10-B - Human"
+AND(H2 >= 2.53e-8, H2 < 7.17e-8, ISNUMBER(H2)):"10-A - Athlete"
 AND(H2 >= 7.17e-8, H2 < 3.69e-6, ISNUMBER(H2)):"9-C - Street"
 AND(H2 >= 3.69e-6, H2 < 5e-3, ISNUMBER(H2)):"9-B - Wall"
 AND(H2 >= 5e-3, H2 < 2.5e-1, ISNUMBER(H2)):"9-A - Small Building"
